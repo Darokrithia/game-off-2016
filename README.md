@@ -6,7 +6,7 @@ Controls are:
 
 w a s d to move,
 
-arrowkeys to shoot,
+arrowkeys to shoot, (the more you shoot the slower you run)
 
 space (next to a dead robot) to begin hacking.
 
